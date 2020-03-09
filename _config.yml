@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Mabel y Ale se quieren mucho 
 
 # Logo image
-image: tb-logo.png
+image: tb-logo
 
 #Rupert el memorioso
 description: >- esto es una prueba de lo que vimos ayer
