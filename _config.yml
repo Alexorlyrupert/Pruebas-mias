@@ -16,7 +16,7 @@
 title: "Mabel y Ale se quieren mucho" 
 
 # Logo image
-image: tb-logo
+image: tb-logo.pgn
 
 #"Rupert el memorioso"
 description: >- esto es una prueba de lo que vimos ayer
@@ -32,7 +32,7 @@ bods_url: ""
 
 graph:
   # The name of your graphic
-  - title: "Graphic name"
+  - title: "Numero de pruebas 4"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
